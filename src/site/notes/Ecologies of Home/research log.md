@@ -2,12 +2,22 @@
 {"dg-publish":true,"permalink":"/ecologies-of-home/research-log/","dg-note-properties":{}}
 ---
 
+<iframe 
+  width="400" 
+  height="200" 
+  src="https://www.youtube.com/embed/clHRVhz2Gs0?autoplay=1&mute=1&controls=0&modestbranding=1&rel=0&playsinline=1" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="autoplay; encrypted-media" 
+  allowfullscreen>
+</iframe>
+
 # Pandesal Journal
+
+From 2016 to 2018, I worked on a **research project** on my hometown, Albay. This unsurprisingly culminated in my MA thesis, _Locating the Community in Curation_, a study that sought out places, narratives, and resources in the fulfillment of a curatorial project with partner communities whose spaces and stories are continuously defined by typhoons and lahar flows.
 
 ![mayon.jpg\|277](/img/user/images/mayon.jpg)
 *Gregorio B. Dantes Jr./Pacific Press/LightRocket/Getty*
-
-From 2016 to 2018, I worked on a **research project** on my hometown, Albay. This unsurprisingly culminated in my MA thesis, _Locating the Community in Curation_, a study that sought out places, narratives, and resources in the fulfillment of a curatorial project with partner communities whose spaces and stories are continuously defined by typhoons and lahar flows.
 
 Years later, I find myself in familiar arenas, perhaps out of wanting to find a language for the narratives and practices I had encountered back then. This return was additionally sparked by the question of **anger**.
 
@@ -16,8 +26,6 @@ Years later, I find myself in familiar arenas, perhaps out of wanting to find a 
 
 # 2022
 I tried to condense my graduate school thesis into a [journal article.](https://drive.google.com/file/d/1E-fJOW1a23FlCQGwzrcRRBTN2MLq4ERZ/view)
-
-<iframe width="400" height="200" src="https://www.youtube.com/embed/clHRVhz2Gs0?si=0uiDdIXESsADAbcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Of the Pan de Sal
 "It is brown and plain like the Filipino..." (Doreen Fernandez, Palayok, 2000)*

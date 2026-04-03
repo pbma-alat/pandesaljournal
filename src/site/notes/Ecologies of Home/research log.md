@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ecologies-of-home/research-log/","dg-note-properties":{}}
 ---
 
-![research journal.png\|center](/img/user/images/research%20journal.png)
+![[research journal.png \|research journal.png ]]
 
 From 2016 to 2018, I worked on a **research project** on my hometown, Albay. This unsurprisingly culminated in my MA thesis, _Locating the Community in Curation_, a study that sought out places, narratives, and resources in the fulfillment of a curatorial project with partner communities whose spaces and stories are continuously defined by typhoons and lahar flows.
 
@@ -33,7 +33,8 @@ I tried to condense my graduate school thesis into a [journal article.](https://
 ![postit 1.png\|246](/img/user/images/postit%201.png)
 
 
-![coordinates.png\|center\|480](/img/user/images/coordinates.png)
+![[coordinates.png \| center]]
+
 # This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas, the mountains, and the volcano.
 
 ![tabaco map.jpg\|629](/img/user/images/tabaco%20map.jpg)

@@ -14,12 +14,11 @@ From 2016 to 2018, I worked on a **research project** on my hometown, Albay. T
   frameborder="0" 
   allow="autoplay; encrypted-media" 
   allowfullscreen>
-</iframe>
+</iframe> 
+![lobel.png\|387](/img/user/images/lobel.png)
+*[Click to read the article by Jason William Lobel.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://zorc.net/RDzorc/BIKOL/AngryRegister-Bikol%5BLobel-2005%5D.pdf)*
 
 Years later, I find myself in familiar arenas, perhaps out of wanting to find a language for the narratives and practices I had encountered back then. This return was additionally sparked by the question of **anger**.
-
-![lobel.png\|389](/img/user/images/lobel.png)
-*[Click to read the article by Jason William Lobel.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://zorc.net/RDzorc/BIKOL/AngryRegister-Bikol%5BLobel-2005%5D.pdf)*
 
 ## 2022
 I tried to condense my graduate school thesis into a [journal article.](https://drive.google.com/file/d/1E-fJOW1a23FlCQGwzrcRRBTN2MLq4ERZ/view)

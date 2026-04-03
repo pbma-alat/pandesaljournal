@@ -30,7 +30,7 @@ I tried to condense my graduate school thesis into a [journal article.](https://
 ## April 29, 2025
 	Library day.
 
-![postit 1.png\|246](/img/user/images/postit%201.png)
+![[postit 1.png \| right]]
 
 
 ![[coordinates.png \| center]]

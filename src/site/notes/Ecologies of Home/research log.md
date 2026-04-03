@@ -45,7 +45,7 @@ Here, I discuss my foray into community curation, adapting modalities of care in
 
 # August 5, 2025
 
-![August 5.jpg\|338](/img/user/images/August%205.jpg)
+![August 5.jpg\|371](/img/user/images/August%205.jpg)
 
 
 # September 2025

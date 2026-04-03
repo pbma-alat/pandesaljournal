@@ -52,4 +52,4 @@ Maps are political. They reveal more than just space, but surface the relationsh
 
 ![Tabaco Bay.jpg\|207](/img/user/images/Tabaco%20Bay.jpg) ![1602 Map of Albay.jpg\|393](/img/user/images/1602%20Map%20of%20Albay.jpg)
 
-![library mapping.png\|350](/img/user/images/library%20mapping.png)
+![library mapping.png\|337](/img/user/images/library%20mapping.png)

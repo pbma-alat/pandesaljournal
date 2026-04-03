@@ -9,11 +9,11 @@ Welcome to my ==digital garden== which I hope to nurture into a terrain. 𖡼�
 
 # palengke project:
 
-### [[Ecologies of Home/By Flood and Fire - Ecologies of Home\|By Flood and Fire - Ecologies of Home]]
+## [[Ecologies of Home/By Flood and Fire - Ecologies of Home\|By Flood and Fire - Ecologies of Home]]
 > *A project made possible through the support of  the Ateneo de Manila University School of Humanities Office of the Dean and the Kwan Laurel Grant for Research and Creative Work in the Humanities.*
 
 𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
-## currently exploring:
+### currently exploring:
 [[ecofeminism\|ecofeminism]] [[geomythology\|geomythology]] [[fire ecologies\|fire ecologies]] [[community archiving\|community archiving]]
 
 ⎚-⎚ [[library\|library]]

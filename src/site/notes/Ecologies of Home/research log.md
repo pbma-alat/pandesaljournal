@@ -36,7 +36,7 @@ Here, I discuss my foray into community curation, adapting modalities of care in
 	Library day.
 
 ![postit 1.png\|231](/img/user/images/postit%201.png)   ![coordinates.png\|424](/img/user/images/coordinates.png)
-# This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas and the volcano.
+## This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas and the volcano.
 
 ![tabaco map.jpg\|578](/img/user/images/tabaco%20map.jpg)
 

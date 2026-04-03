@@ -11,3 +11,6 @@
 [[Ecologies of Home/the blacksmiths\|the blacksmiths]]
 [[Ecologies of Home/the market\|the market]]
 [[the volcano\|the volcano]]
+
+𓅰 𓅬 𓅭 𓅮 𓅯
+##### [[Ecologies of Home/research log\|research log]]

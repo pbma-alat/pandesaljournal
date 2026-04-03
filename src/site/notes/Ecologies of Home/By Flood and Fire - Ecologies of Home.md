@@ -8,5 +8,6 @@
 [[Ecologies of Home/the fiber\|the fiber]]
 [[Ecologies of Home/the food\|the food]]
 [[Ecologies of Home/the marias and the aswang\|the marias and the aswang]]
-[[the blacksmiths\|the blacksmiths]]
+[[Ecologies of Home/the blacksmiths\|the blacksmiths]]
+[[Ecologies of Home/the market\|the market]]
 [[the volcano\|the volcano]]

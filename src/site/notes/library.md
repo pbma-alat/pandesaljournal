@@ -15,12 +15,12 @@ views:
       and:
         - file.inFolder("Bibliography")
     order:
-      - file.name
+      - title
       - author
     cardSize: 160
-    imageAspectRatio: 0.9
-    image: note.image
+    imageAspectRatio: 0.95
     imageFit: contain
+    image: note.image
 
 ```
 

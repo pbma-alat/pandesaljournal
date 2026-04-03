@@ -91,7 +91,7 @@ Elsewhere, in the iconography of Nuestra Señora de Salvacion, we find a differe
 
 Canonically crowned the patroness of Albay province on August 25, 1976, Nuestra Señora de Salvacion offers a complex interplay of fire and the female. This Marian image contains a curious iconography that some churches have deemed perturbing. The Virgin Mary carries the Child Jesus in her left arm while reaching out to save a man stumbling backward. Below the man is the devil’s head which, in multiple depictions, is shown with fire spewing from the mouth of the grotesque figure. On the other side of Mary, a repentant sinner offers up a basket of flaming hearts. In this considerable configuration of figures, the Mother, the Child, the penitent, the rescued, and the demon altogether narrate Albay's story of salvation, underscoring its strong belief in divine protection while conversing with its histories of disaster and material conditions.
 
-![salvacion 1.jpg\|354](/img/user/images/salvacion%201.jpg) ![amparos.jpg\|249](/img/user/images/amparos.jpg)
+![salvacion 1.jpg\|257](/img/user/images/salvacion%201.jpg) ![amparos.jpg\|193](/img/user/images/amparos.jpg)  ![cainta.png\|199](/img/user/images/cainta.png)
 
 *Nuestra Señora de Salvacion, 19th century, Laguna* from [Salcedo Auctions](https://members.salcedoauctions.com/item/40636) | [The Diarist](https://www.thediarist.ph/bautista-collection-a-must-see-this-weekend-from-pre-colonial-gold-religious-art-to-anting-anting-maps/)
 

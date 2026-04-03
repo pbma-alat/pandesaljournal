@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/ecologies-of-home/research-log/","dg-note-properties":{}}
 ---
 
+![research journal.png\|636](/img/user/images/research%20journal.png)
+
+From 2016 to 2018, I worked on a **research project** on my hometown, Albay. This unsurprisingly culminated in my MA thesis, _Locating the Community in Curation_, a study that sought out places, narratives, and resources in the fulfillment of a curatorial project with partner communities whose spaces and stories are continuously defined by typhoons and lahar flows.
+
 <iframe 
   width="400" 
   height="200" 
@@ -12,13 +16,6 @@
   allowfullscreen>
 </iframe>
 
-# Pandesal Journal
-
-From 2016 to 2018, I worked on a **research project** on my hometown, Albay. This unsurprisingly culminated in my MA thesis, _Locating the Community in Curation_, a study that sought out places, narratives, and resources in the fulfillment of a curatorial project with partner communities whose spaces and stories are continuously defined by typhoons and lahar flows.
-
-![mayon.jpg\|277](/img/user/images/mayon.jpg)
-*Gregorio B. Dantes Jr./Pacific Press/LightRocket/Getty*
-
 Years later, I find myself in familiar arenas, perhaps out of wanting to find a language for the narratives and practices I had encountered back then. This return was additionally sparked by the question of **anger**.
 
 ![lobel.png\|389](/img/user/images/lobel.png)
@@ -27,9 +24,11 @@ Years later, I find myself in familiar arenas, perhaps out of wanting to find a 
 ## 2022
 I tried to condense my graduate school thesis into a [journal article.](https://drive.google.com/file/d/1E-fJOW1a23FlCQGwzrcRRBTN2MLq4ERZ/view)
 
+![mayon.jpg\|277](/img/user/images/mayon.jpg)
+*Gregorio B. Dantes Jr./Pacific Press/LightRocket/Getty*
+
 ## Of the Pan de Sal
-"It is brown and plain like the Filipino..." (Doreen Fernandez, Palayok, 2000)*
-![pandesal.png](/img/user/images/pandesal.png)
+![pandesal.png\|102](/img/user/images/pandesal.png)"It is brown and plain like the Filipino..." (Doreen Fernandez, Palayok, 2000)
 
 ## April 29, 2025
 Library day.
@@ -40,4 +39,6 @@ Library day.
 # This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas, the mountains, and the volcano.
 
 ![tabaco map.jpg\|636](/img/user/images/tabaco%20map.jpg)
+
+
 

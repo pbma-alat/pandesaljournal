@@ -25,13 +25,17 @@ Years later, I find myself in familiar arenas, perhaps out of wanting to find a 
 I tried to condense my graduate school thesis into a [journal article.](https://drive.google.com/file/d/1E-fJOW1a23FlCQGwzrcRRBTN2MLq4ERZ/view)
 Here, I discuss my foray into community curation, adapting modalities of care in my engagements with two barangays in Albay.
 
-## Of the Pan de Sal    ![pandesal.png\|106](/img/user/images/pandesal.png)
-"It is brown and plain like the Filipino..." (Doreen Fernandez, Palayok, 2000)
+## On the Pan de Sal    
+"It is brown and plain like the Filipino..." (Doreen Fernandez, Palayok, 2000) 
+
+
+![pandesal.png\|106](/img/user/images/pandesal.png)
+
 
 ## April 29, 2025
 	Library day.
 
-![postit 1.png\|231](/img/user/images/postit%201.png)  ![[coordinates.png \| center ]]
+![postit 1.png\|231](/img/user/images/postit%201.png)  ![[coordinates.png \| 365]]
 # This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas, the mountains, and the volcano.
 
 ![tabaco map.jpg\|578](/img/user/images/tabaco%20map.jpg)

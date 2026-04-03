@@ -49,7 +49,7 @@ Here, I discuss my foray into community curation, adapting modalities of care in
 
 
 # September 2025
-Maps are political. They reveal more than just space, but surface the relationships and codified practices within the place.
+Maps are political. They reveal more than just space, but surface the relationships and codified practices within the place. Many [[Ecologies of Home/maps of Bicol\|maps of Bicol]] exist in history and in present.
 
 ![Tabaco Bay.jpg\|207](/img/user/images/Tabaco%20Bay.jpg) ![1602 Map of Albay.jpg\|393](/img/user/images/1602%20Map%20of%20Albay.jpg)
 

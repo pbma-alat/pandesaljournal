@@ -7,6 +7,8 @@
 
 #foodhistories #ecologiesofhome #foodways
 
+![kailangan kita.png](/img/user/images/kailangan%20kita.png)
+
 In the 2002 film, [[Kailangan Kita\|Kailangan Kita]][^1], directed by Rory B. Quintos, a young Claudine Barretto plays Lena, a simple but feisty young lady who treats the kitchen as her domain. She embraces this space of the domestic. The film, set in Albay, predictably opens with a grand yet quiet view of Mayon, before taking the viewers through cliffside roads, a dam, and the Legazpi City Cathedral, before finally settling on a large bahay-na-bato where most of the film takes place. Place is early established as having agency in the story, perhaps even shaping how it unfolds alongside the development of the film’s characters.
 
 In the opening scene, Lena prepares a feast, all of the ingredients piled high in baskets on the kitchen tables. Everyone is busy. Coconuts are delivered in bundles to the kitchen, steam rises from a wok, an open flame burns on the old stove, and Lena hurriedly chops onions. Sweat ripples through her skin as moisture gathers on the side of the kitchen pots. In this house, dehusked corn and garlands of garlic hang from the ceiling while a cornucopia of produce is gloriously displayed on the counters. There are onions, garlic, tomatoes, coconuts, all sorts of greens, and the staple sili, glistening and almost jewel-like, featured prominently throughout the film.

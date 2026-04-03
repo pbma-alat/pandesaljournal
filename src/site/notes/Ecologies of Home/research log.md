@@ -24,14 +24,20 @@ Years later, I find myself in familiar arenas, perhaps out of wanting to find a 
 ![lobel.png\|389](/img/user/images/lobel.png)
 *[Click to read the article by Jason William Lobel.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://zorc.net/RDzorc/BIKOL/AngryRegister-Bikol%5BLobel-2005%5D.pdf)*
 
-# 2022
+## 2022
 I tried to condense my graduate school thesis into a [journal article.](https://drive.google.com/file/d/1E-fJOW1a23FlCQGwzrcRRBTN2MLq4ERZ/view)
 
-# Of the Pan de Sal
+## Of the Pan de Sal
 "It is brown and plain like the Filipino..." (Doreen Fernandez, Palayok, 2000)*
 ![pandesal.png](/img/user/images/pandesal.png)
 
-# April 29, 2025
+## April 29, 2025
 Library day.
 ![postit 1.png\|246](/img/user/images/postit%201.png)
-	 
+
+
+![coordinates.png\|287](/img/user/images/coordinates.png)
+# This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas, the mountains, and the volcano.
+
+![tabaco map.jpg\|636](/img/user/images/tabaco%20map.jpg)
+

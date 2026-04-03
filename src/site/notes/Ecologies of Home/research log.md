@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ecologies-of-home/research-log/","dg-note-properties":{}}
 ---
 
-![research journal.png](/img/user/images/research%20journal.png)
+![research journal.png\|550](/img/user/images/research%20journal.png)
 
 From 2016 to 2018, I worked on a **research project** on my hometown, Albay. This unsurprisingly culminated in my MA thesis, _Locating the Community in Curation_, a study that sought out places, narratives, and resources in the fulfillment of a curatorial project with partner communities whose spaces and stories are continuously defined by typhoons and lahar flows.
 

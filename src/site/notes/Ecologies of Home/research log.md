@@ -24,9 +24,6 @@ Years later, I find myself in familiar arenas, perhaps out of wanting to find a 
 ## 2022
 I tried to condense my graduate school thesis into a [journal article.](https://drive.google.com/file/d/1E-fJOW1a23FlCQGwzrcRRBTN2MLq4ERZ/view)
 
-![mayon.jpg\|277](/img/user/images/mayon.jpg)
-*Gregorio B. Dantes Jr./Pacific Press/LightRocket/Getty*
-
 ## Of the Pan de Sal
 ![pandesal.png\|102](/img/user/images/pandesal.png)"It is brown and plain like the Filipino..." (Doreen Fernandez, Palayok, 2000)
 

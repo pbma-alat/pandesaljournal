@@ -45,10 +45,12 @@ Here, I discuss my foray into community curation, adapting modalities of care in
 
 # August 5, 2025
 
-![August 5.jpg\|371](/img/user/images/August%205.jpg)
+![August 5.jpg\|273](/img/user/images/August%205.jpg)
 
 
 # September 2025
 Maps are political. They reveal more than just space, but surface the relationships and codified practices within the place.
 
-![Tabaco Bay.jpg\|296](/img/user/images/Tabaco%20Bay.jpg) ![1602 Map of Albay.jpg\|393](/img/user/images/1602%20Map%20of%20Albay.jpg)
+![Tabaco Bay.jpg\|207](/img/user/images/Tabaco%20Bay.jpg) ![1602 Map of Albay.jpg\|393](/img/user/images/1602%20Map%20of%20Albay.jpg)
+
+![library mapping.png\|350](/img/user/images/library%20mapping.png)

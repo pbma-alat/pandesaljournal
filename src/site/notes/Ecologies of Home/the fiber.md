@@ -19,7 +19,7 @@ For the people of Tabaco, abaca exists simply as abaca. The public market crawls
 
 In the market, there are those who have passed three days without selling a thing. Handicrafts sales have withered in the last few years. The more open market of today has made these products more accessible.
 
-![fiber 1.jpg](/img/user/images/fiber%201.jpg) ![fiber 2.jpg](/img/user/images/fiber%202.jpg)
+![fiber 1.jpg\|371](/img/user/images/fiber%201.jpg) ![fiber 2.jpg\|371](/img/user/images/fiber%202.jpg)
 
 “Sa bundok,” my parents would say, the same when I ask them where the abaca is made. It is the same thing uttered by the marketfolk. In the neighboring municipality of Malilipot (malipot being the Bikol word for “cold”), the people gather every July to celebrate the Lubid Festival. Malilipot, like Tabaco, sits near the coast and at the foot of mountains. In these mountains, not far from the sentro of Malilipot, one will find a small community of manlulubid (rope-weavers.)
 

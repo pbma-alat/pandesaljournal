@@ -57,6 +57,8 @@ I proceeded to gisa. The moment I opened the sachet of “coconut milk,” the h
 
 Our walking detoured to the Taytay Public Market where we found all the proper ingredients we needed to cook Bicol express. As Doreen Fernandez has also noted in her article in Sarap, there is a, unwritten albeit clear logic to the layout of a Philippine public market that is intrinsically codified in its space. One finds the dry goods outside, mainly in bangketas, then the produce all huddled together. As one goes deeper into this section, they may find themselves among cartons of eggs, mounds of flour, and varied takal of mantika. It is outside this section too where one might find the maggagata, with their bucketful of shredded coconut, takal of gata, and the free ikalawang piga right beside it. To the other side of the market, we find the wet section for meats and fish. Pig heads hang like decor on large hooks. Put on display are curtains of ribs accompanied by the occasional pig’s tail and the trotters with knobby joints sticking out the meat.
 
+![taytay.png](/img/user/images/taytay.png)
+
 **January 2026.**
 
 Our walk detoured to the Taytay Public Market, where we found all the proper ingredients we needed to cook Bicol Express. As Doreen Fernandez once noted in her essay in Sarap, there is an unwritten—yet unmistakable—logic to the layout of a Philippine public market, a logic intrinsically codified in its space.

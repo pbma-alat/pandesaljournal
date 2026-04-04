@@ -38,7 +38,7 @@ Here, I discuss my foray into community curation, adapting modalities of care in
 ![postit 1.png\|231](/img/user/images/postit%201.png)   ![coordinates.png\|424](/img/user/images/coordinates.png)
 ## This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas and the volcano.
 
-![tabaco map.jpg\|578](/img/user/images/tabaco%20map.jpg)
+![tabaco map.png](/img/user/images/tabaco%20map.png)
 
 
 
@@ -54,3 +54,7 @@ Maps are political. They reveal more than just space, but surface the relationsh
 ![Tabaco Bay.jpg\|207](/img/user/images/Tabaco%20Bay.jpg) ![1602 Map of Albay.jpg\|393](/img/user/images/1602%20Map%20of%20Albay.jpg)
 
 ![library mapping.png\|337](/img/user/images/library%20mapping.png)
+
+
+
+# March 2026

@@ -3,6 +3,10 @@
 ---
 
 
+[[Ecologies of Home/By Flood and Fire - Ecologies of Home\|By Flood and Fire - Ecologies of Home]]
+
+#volcanoecology #mayon #disasterhistory 
+
 ![NASA Earth Observatory Image by Michala Garrison.jpg\|697](/img/user/images/NASA%20Earth%20Observatory%20Image%20by%20Michala%20Garrison.jpg)
 
 ![volcano 1.png](/img/user/images/volcano%201.png)

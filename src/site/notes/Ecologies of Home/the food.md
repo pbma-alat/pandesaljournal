@@ -41,7 +41,7 @@ I hurriedly open a new note in my phone as Papa languidly recites what I need to
 >Once the dish is nearing done, pour in the liputok na gata and stir.
 >Add the sili and dinailan. Add more sili seeds as desired.
 
-![food 1.jpg\|494](/img/user/images/food%201.jpg) ![food 3.jpg\|494](/img/user/images/food%203.jpg)
+![food 1.jpg\|330](/img/user/images/food%201.jpg) ![food 3.jpg\|331](/img/user/images/food%203.jpg)
 
 **January 2026.**
 

@@ -23,6 +23,6 @@ Welcome to my ==digital garden== which I hope to nurture into a terrain. 𖡼�
   ˙ᵕ˙   [[baby bruha\|baby bruha]]
 
 ----
-
-`Bianca is a cultural worker and educator from the Philippines ⋆ 𖤓 ⋆˚࿔`
+![biancabianca.png\|156](/img/user/images/biancabianca.png)
+`is a cultural worker and educator from the Philippines ⋆ 𖤓 ⋆˚࿔`
 `She grew up in a port city where people live by rainstorms ⛈ and volcanic fire. 🌋`

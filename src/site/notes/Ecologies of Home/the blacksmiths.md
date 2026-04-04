@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/ecologies-of-home/the-blacksmiths/","dg-note-properties":{}}
 ---
 
+
+[[Ecologies of Home/By Flood and Fire - Ecologies of Home\|By Flood and Fire - Ecologies of Home]]
+
+#localeconomy #culturalflows #fireecology #ecologiesofhome #volcanoecology 
+
 In the winding alleyways that run alongside the homes in Barangay Cobo, one might hear the sharp, shrill ring of metal grating against a stone polish. Here in Cobo, fire bows to the swift and sure movements of the pandays who know best to tame it.
 
 Blacksmithing in Cobo began in the early 1800s and surged in the 1940s when the Philippine National Railway (PNR) project fell through. The railroad tracks that had been in operation since the early 1900s were now considered useless and fair game, as Tabaquenos began stripping the metal from the ground. This would fuel the reinvigoration of the blacksmithing culture in Tabaco. Blacksmiths from the nearby barangays of Baranghawon and Tayhi soon migrated to Cobo and established pandayans there.

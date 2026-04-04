@@ -16,7 +16,7 @@ From 2016 to 2018, I worked on a **research project** on my hometown, Albay. T
   allowfullscreen>
 </iframe> 
 
-Years later, I find myself in familiar arenas, perhaps out of wanting to find a language for the narratives and practices I had encountered back then. This return was additionally sparked by the question of **anger**.
+Years later, with my research *[[Ecologies of Home/By Flood and Fire - Ecologies of Home\|By Flood and Fire - Ecologies of Home]]*, I find myself in familiar arenas, perhaps out of wanting to find a language for the narratives and practices I had encountered back then. This return was additionally sparked by the question of *anger*.
 
 ![lobel.png\|335](/img/user/images/lobel.png)  ![mayon.jpg\|254](/img/user/images/mayon.jpg)
 *[Click to read the article by Jason William Lobel.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://zorc.net/RDzorc/BIKOL/AngryRegister-Bikol%5BLobel-2005%5D.pdf)*    *Gregorio B. Dantes Jr./Pacific Press/LightRocket/Getty*

@@ -58,3 +58,13 @@ Maps are political. They reveal more than just space, but surface the relationsh
 
 
 # March 2026
+
+![workshop2.png\|284](/img/user/images/workshop2.png)
+
+
+
+![workshopoutput2a.png\|281](/img/user/images/workshopoutput2a.png) ![workshopoutput2b.png\|281](/img/user/images/workshopoutput2b.png)
+
+
+
+![IMG_3354.jpg\|187](/img/user/images/IMG_3354.jpg) ![IMG_3372.jpg\|187](/img/user/images/IMG_3372.jpg) ![IMG_3395.jpg\|188](/img/user/images/IMG_3395.jpg)

@@ -15,8 +15,8 @@ views:
       and:
         - file.inFolder("Bibliography")
     order:
-      - title
       - author
+      - title
     cardSize: 160
     imageAspectRatio: 0.95
     imageFit: contain

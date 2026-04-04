@@ -23,7 +23,7 @@ Years later, with my research *[[Ecologies of Home/By Flood and Fire - Ecologies
 
 ## 2022
 I tried to condense my graduate school thesis into a [journal article.](https://drive.google.com/file/d/1E-fJOW1a23FlCQGwzrcRRBTN2MLq4ERZ/view)
-Here, I discuss my foray into community curation, adapting modalities of care in my engagements with two barangays in Albay.
+Here, I discuss my foray into [[Ecologies of Home/community curation\|community curation]], adapting modalities of care in my engagements with two barangays in Albay.
 
 ## On the Pan de Sal    
 "It is brown and plain like the Filipino..." (Doreen Fernandez, Palayok, 2000) 
@@ -36,7 +36,7 @@ Here, I discuss my foray into community curation, adapting modalities of care in
 	Library day.
 
 ![postit 1.png\|231](/img/user/images/postit%201.png)   ![coordinates.png\|424](/img/user/images/coordinates.png)
-## This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas and the volcano.
+## This research begins with the city which seems to have been stuck in its transition from being a town. It is coastal, cradled by the seas and [[Ecologies of Home/the volcano\|the volcano]].
 
 ![tabaco map.png](/img/user/images/tabaco%20map.png)
 

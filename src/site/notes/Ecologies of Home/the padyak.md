@@ -18,7 +18,7 @@
 
 ![padyak 3 audio.png](/img/user/images/padyak%203%20audio.png)
 
-#### *Route*: *St. John the Baptist Church to St. Gregory the Great Seminary
+#### *Route*: *St. John the Baptist Church to St. Gregory the Great Seminary*
 
 ![padyak 4 audio.png](/img/user/images/padyak%204%20audio.png)
 

@@ -7,7 +7,7 @@
 
 #localeconomy #localhistories #fireecology #localeconomy 
 
-As with much research, this one begins in the library. In Tabaco, the library is in the market. It settled there after the conflagration of 2002, and after the local government had decided to renovate the Arellano-designed city hall. The city is designed like all other Spanish colonial towns: in a grid, following the *bajo la campana* ideology of the colonial government. Here, the colonial languages bleed into one another and hat emerges is not only a spatial configuration but a way of moving and gathering that persists even as the material anchors of place are continually destroyed and remade.
+As with much research, this one begins in the library. In Tabaco, the library is in the market. It settled there after the conflagration of 2003, and after the local government had decided to renovate the Arellano-designed city hall. The city is designed like all other Spanish colonial towns: in a grid, following the *bajo la campana* ideology of the colonial government. Here, the colonial languages bleed into one another and hat emerges is not only a spatial configuration but a way of moving and gathering that persists even as the material anchors of place are continually destroyed and remade.
 
 ![municipio 1929.jpg](/img/user/images/municipio%201929.jpg)
 

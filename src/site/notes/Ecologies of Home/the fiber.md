@@ -13,7 +13,7 @@ Shinzo Hayase[^1] writes about the history of abaca production, popularized in t
 
 Bicol’s humid climate and high instance of rainfall proved productive for cultivating abaca. The soil, too, was made even richer by the Mayon Volcano. But there was Davao, with the rich terroir of Mount Apo, and without the typhoons that frequently raged in Bicol. Decades later, in the second quarter of 2023, the Bicol Region was once more listed by the Philippine Statistics Authority as the top producer of abaca in the country.[^2]
 
-Currently, one of the biggest companies for abaca production is Ching Bee Trading Corporation. It was founded in the 1940s in Tabaco, Albay by Mr. Lim Ching Bee, and currently has buying stations and branches in Tabaco City, Baybay City, Leyte, and Davao City. It exports abaca globally and transports the fiber to Japan, the US, and Europe.[^3]
+Currently, one of the biggest companies for abaca production is Ching Bee Trading Corporation. It was founded in the 1940s in Tabaco, Albay by Mr. Lim Ching Bee, and currently has buying stations and branches in Tabaco City, Baybay City, Leyte, and Davao City. It exports abaca globally and transports the fiber to Japan, the US, and Europe.[^3] As of 2025, the Bicol Region is listed as one of the few areas where abaca farming, pulp processing, and cordage manufacturing is concentrated. According to the same report, most the the processed abaca products, "particularly abaca pulp (78.6%), cordage/rope (4.9%), and fibercraft/fabrics (0.9%), fabrics and yarns (0.7%) raw fiber (14.9%) are exported abroad. About 97.0% of the total abaca production in the country is exported which generated an equivalent of more than Php8 billion revenue in 2019."^[4] Contesting the colonially rooted myth of the "lazy native," Norman G. Owen in *Prosperity Without Progress* contends that it is precisely this bias toward exporting abaca that has, as early as the twentieth century, led to the rise in abaca prices and, subsequently, the overall destabilizing of the market. ^[5]
 
 For the people of Tabaco, abaca exists simply as abaca. The public market crawls with fiber and its products. Abaca exists as a readymade, as bags and home decor – the usual pasalubong. These are familiar sights. At some point, I even grew incredulous of people using these fiber bags in the metro when it became trendy to use them.
 
@@ -40,3 +40,7 @@ Today, abaca exists as one in a long line of statistics in our export economy. I
 [^2]: **PSA link**
 
 [^3]: **Ching Bee Trading Company link**
+
+[^4]: The Philippine Abaca Industry Roadmap, 2021-2025
+
+[^5]: Owen, Norman G. *Prosperity without Progress: Manila Hemp and Material Life in Colonial Philippines*, Los Angeles: University of California Press, 1984.

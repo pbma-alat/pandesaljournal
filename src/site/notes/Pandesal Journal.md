@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pandesal-journal/","tags":["gardenEntry"],"dg-note-properties":{"aliases":null}}
+{"dg-publish":true,"permalink":"/pandesal-journal/pandesal-journal/","tags":["gardenEntry"],"dg-note-properties":{"aliases":null}}
 ---
 
 
@@ -16,11 +16,11 @@ Welcome to my ==digital garden== which I hope to nurture into a terrain. 𖡼�
 ### currently exploring:
 [[ecofeminism\|ecofeminism]] [[geomythology\|geomythology]] [[fire ecologies\|fire ecologies]] [[community archiving\|community archiving]]
 
-⎚-⎚ [[library\|library]]
-✎ᝰ [[talaan\|talaan]]
-✃Ꮺ [[sinulid studies\|sinulid studies]]
+⎚-⎚ [[Pandesal Journal/library\|library]]
+✎ᝰ [[Pandesal Journal/talaan\|talaan]]
+✃Ꮺ [[Pandesal Journal/sinulid studies\|sinulid studies]]
 𖣯இ [[previous works\|previous works]]
-  ˙ᵕ˙   [[baby bruha\|baby bruha]]
+˙ᵕ˙  [[baby bruha\|baby bruha]]
 
 ----
 ![biancabianca.png\|156](/img/user/images/biancabianca.png)

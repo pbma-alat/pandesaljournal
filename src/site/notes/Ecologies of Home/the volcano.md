@@ -7,6 +7,8 @@
 
 #volcanoecology #mayon #disasterhistory 
 
+https://region9.healthresearch.ph/index.php/research-utilization/10-news/151-biodiversity-rich-mayon-to-recover-fast-sustain-life#:~:text=The%20natural%20park%20is%20home,endemic%2C%20while%20others%20are%20indigenous.
+
 ![NASA Earth Observatory Image by Michala Garrison.jpg\|697](/img/user/images/NASA%20Earth%20Observatory%20Image%20by%20Michala%20Garrison.jpg)
 
 ![volcano 1.png](/img/user/images/volcano%201.png)

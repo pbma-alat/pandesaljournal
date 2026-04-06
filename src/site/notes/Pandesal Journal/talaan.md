@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pandesal-journal/talaan/","dg-note-properties":{}}
 ---
 
+an accounting of things kept, lost, forgotten, and held
 
 | <br><br><br><br>![susi.png\|124](/img/user/images/susi.png)<br>`susi sa 707` | ![yosi.png\|137](/img/user/images/yosi.png)<br>`yosi sa bahay ni lola`                           | <br><br>![die.png\|105](/img/user/images/die.png)<br>`dais`          | <br><br><br><br><br>![babybruha.png\|160](/img/user/images/babybruha.png)<br>`baby bruha (2024)` |
 | --------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------ |

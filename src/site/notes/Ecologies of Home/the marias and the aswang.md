@@ -22,7 +22,7 @@ In the human realm, women chiefly served as mediums between the material and the
 
 Jesus Cyril M. Conde[^12], in considering this link between the asog and baliana, offers a different reading of oneness to the tale of Oryol. His argument, however, is written with the unfortunate anchoring on the male counterpart of Handyong and the asog. Conde suggests that Handyong and Oryol mirror the alliance between the asog ang the baliana, ultimately evidencing the oneness of genders in precolonial Bicol. Yet an examination of the characterization of the serpent-maiden -- deceitful, inconsistent, seductive, and elusive and only wise insofar as she serves the warrior -- reveals the clear inequality of this dynamic. Sasmita gestures to a similar tension in Balinese folklore, and it would not be strange to find the same themes emerge in Filipino folklore.
 
-In this essay, I contend that the wounding of the female in myth and in material reality all at once subdues and completes her. In offering this eco-feministic reading of selected texts, we might begin to locate an understanding of how particular worlds are experienced and shaped by the female, and vice-versa.
+In this article, I contend that the wounding of the female in myth and in material reality all at once subdues and completes her. In offering this eco-feministic reading of selected texts, we might begin to locate an understanding of how particular worlds are experienced and shaped by the female, and vice-versa.
 
 **Asuang and the Stolen Flame**
 

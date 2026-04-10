@@ -12,6 +12,7 @@
 [[Ecologies of Home/the market\|the market]]
 [[Ecologies of Home/the volcano\|the volcano]]
 [[Ecologies of Home/the padyak\|the padyak]]
+[[Ecologies of Home/the orchids\|the orchids]]
 
 𓅰 𓅬 𓅭 𓅮 𓅯
 ##### [[Ecologies of Home/research log\|research log]]

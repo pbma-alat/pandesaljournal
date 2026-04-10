@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pandesal-journal/pandesal-journal/","tags":["gardenEntry"],"dg-note-properties":{"aliases":null}}
+{"dg-publish":true,"permalink":"/pandesal-journal/","tags":["gardenEntry"],"dg-note-properties":{"aliases":null}}
 ---
 
 

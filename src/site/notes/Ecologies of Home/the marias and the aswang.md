@@ -101,7 +101,7 @@ OLA is said to have appeared to the Aeta community who reside in the hills of Bo
 
 Fire is the language of destruction, and in the iconography of the two Marian images of Salvacion and Amparos, it also exists as an offering. Particularly in the image of Salvacion, flames figure heavily, recalling the iconography of Nuestra Señora de la Lumen de Cainta. In a painting by Fernando Amorsolo, the fiery fanged demon adopts an even more monstrous face which stands in great contrast against the serene disposition of de la Lumen.
 
-![joroan.jpeg\|640](/img/user/images/joroan.jpeg)
+![joroan.jpeg\|457](/img/user/images/joroan.jpeg)
 *Stained glass image of Salvacion at the Church of Joroan, Albay. I had stared up at the devil figure many times when I was a child, wondering why it sat there with the image of the Mother.*
 
 The image of Salvacion was carved in the 1770s from the trunk of a felled calpi tree in one of the estates of Don Siliverio Arcilla. Mariano Dakuba, a tenant, was tasked with clearing parts of Don Arcilla’s hacienda. In the process, Dakuba chopped down a large calpi tree that miraculously never rotted. A local sculptor named Bagacumba was eventually commissioned to carve three sacred images from the trunk, galvanizing the reverence of nature as material in the holy bodies of Our Lady of Salvation, Our Lady of Solitude, and St. Anthony of Padua. On August 25, 1776, Don Arcilla allowed for Salvacion to be installed in Joroan, which was once a vista of Buhi, Camarines Sur, upon the condition that a chapel would be built at the center of the barrio.[^9]

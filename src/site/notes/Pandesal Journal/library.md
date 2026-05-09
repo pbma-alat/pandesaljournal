@@ -9,16 +9,7 @@ filters:
   and:
     - file.inFolder("Bibliography")
 views:
-  - type: table
-    name: View
-    order:
-      - file.name
-      - file.tags
-      - dg-publish
-    columnSize:
-      file.name: 365
-      file.tags: 231
-  - type: cards
+  - type: list
     name: library
     filters:
       and:
@@ -26,6 +17,7 @@ views:
     order:
       - author
       - title
+      - file.name
     cardSize: 160
     imageAspectRatio: 0.95
     imageFit: contain
